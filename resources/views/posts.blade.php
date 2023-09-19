@@ -9,6 +9,11 @@
 </head>
 <body>
 
-    <h2>Welcome to the homepage</h2>
+    <article>
+        <h1>My First Post</h1>
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro veniam deleniti a, sed eligendi corrupti laborum. Facere sapiente perferendis modi fuga, quidem soluta aliquam corporis unde eaque repellendus harum. Odit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas quaerat deserunt repellendus id. Totam obcaecati distinctio fuga cumque magnam. Ratione, illo ea! Odit hic atque, in dolore, illum placeat magnam ipsum odio nulla libero delectus vero. Reprehenderit veniam deleniti tenetur quas natus laborum omnis, veritatis maiores quod atque ipsa fuga!
+        </p>
+    </article>
 </body>
 </html>
